@@ -1,0 +1,9 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  background-color: aqua;
+  position:absolute;bottom:100;right:-10;background:green;width:0px;height:0px;
+  display: block;
+}
